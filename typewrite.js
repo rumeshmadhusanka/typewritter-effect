@@ -6,9 +6,7 @@ var i = 0,
 
 // Typerwrite text content. Use a pipe to indicate the start of the second line "|".  
 var textArray = [
-  "Hello '18ners","It's Decrypt Here",""
-  
-];
+  "Hello '18ners","It's Decrypt Here"];
 
 // Speed (in milliseconds) of typing.
 var speedForward = 120, //Typing Speed
