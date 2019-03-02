@@ -5,12 +5,13 @@ body {
 .output {
   text-align:center;
   font-family: monospace;
-  color:white;
+  color:white;}
+
   h1 {
     font-size:30px;
     
   }
-}
+
 
 /* Cursor Styling */
 
